@@ -1,7 +1,5 @@
 #include <Rcpp.h>
 using namespace Rcpp;
-// [[Rcpp::plugins(cpp11)]]
-
 
 // This is a simple example of exporting a C++ function to R. You can
 // source this function into an R session using the Rcpp::sourceCpp

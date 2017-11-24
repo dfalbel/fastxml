@@ -6,6 +6,7 @@
 #include "timer.h"
 using namespace std;
 
+
 Param parse_param(_int argc, char* argv[])
 {
 	Param param;

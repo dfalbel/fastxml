@@ -1,6 +1,6 @@
 #include "fastXML.h"
 #include <ctime>
-
+// [[Rcpp::plugins(cpp11)]]
 using namespace std;
 
 LOGLVL loglvl = LOGLVL::PROGRESS;  // print progress reports

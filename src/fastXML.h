@@ -1,5 +1,6 @@
 #pragma once
 
+// [[Rcpp::plugins(cpp11)]]
 #include <iostream>
 #include <vector>
 #include <map>
